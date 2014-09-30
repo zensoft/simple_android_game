@@ -1,4 +1,13 @@
-simple_android_game
+Simple andengine game
 ===================
 
-Simple game written in andengine with physics extension
+Simple game written in andengine with physics extension.
+
+Repository has three projects:
+	-AndEngine
+	-AndEnginePhysicsBox2DExtension
+	-SimpleGame
+
+Game code is in SimpleGame project.
+All of development performed in eclipse ide.
+
